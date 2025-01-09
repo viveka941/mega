@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Header() {
+export default function Logo({width='100px'}) {
   return (
     <div>
-      Header
+      Logo
     </div>
   )
 }
